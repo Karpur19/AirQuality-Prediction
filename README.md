@@ -1,6 +1,17 @@
 AirQuality-Prediction
 Webapp to predict the Air Quality Index of a region given climate conditions.
 
+🌍 Description:
+An AI model that predicts air pollution levels using real-time environmental data.
+
+🔧 Tech Stack:
+✅ Python | Pandas | Scikit-learn | Flask | Power BI
+
+🔥 Key Features:
+✔️ Uses Random Forest & Linear Regression for accurate predictions
+✔️ Real-time API for fetching air quality data
+✔️ Power BI dashboards for visualization
+
 
 1. Data Collection: (execute main-aqi.py)
 For this step, I have written a web scrapper that scraps en.tutiempo.net for climate data from 2013 to 2015 and creates a HTML file for each month.
